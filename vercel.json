@@ -1,3 +1,5 @@
+/* Go to your main project creat one .json file with the name vercel and go into it and past the following code as it is. */
+/* Be sure that at the place of server.js input you main file name of the project */
 {
   "version": 2,
   "name": "native-server",
